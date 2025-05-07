@@ -94,13 +94,13 @@ android {
     productFlavors {
         netknights{
             dimension "pi-authenticator"
-            applicationId "it.netknights.piauthenticator"
+            applicationId "org.duckdns.pidea"
             resValue "string", "app_name", "privacyIDEA Authenticator"
             signingConfig signingConfigs.netknights
         }
         netknights_debug{
             dimension "pi-authenticator"
-            applicationId "it.netknights.piauthenticator.debug"
+            applicationId "org.duckdns.pidea.debug"
             resValue "string", "app_name", "Internal - privacyIDEA Authenticator"
             signingConfig signingConfigs.netknights_debug
         }
