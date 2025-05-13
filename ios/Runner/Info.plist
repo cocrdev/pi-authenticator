@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>PushKey</string>
+	<string>PushKeyX</string>
 	<key>CFBundleName</key>
-	<string>PushKey</string>
+	<string>PushKeyX</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
